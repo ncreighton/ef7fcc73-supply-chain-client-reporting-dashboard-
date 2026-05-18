@@ -1,0 +1,2 @@
+# ef7fcc73-supply-chain-client-reporting-dashboard-
+This Supply Chain Client Reporting Dashboard Template is a comprehensive, ready-to-use solution for logistics and supply chain professionals who need to present real-time data and performance metrics to clients. Designed for clarity and impact, the template includes pre-built visualizations for key indicators such as order fulfillment rates, invent
